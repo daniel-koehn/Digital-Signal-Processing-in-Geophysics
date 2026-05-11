@@ -4,13 +4,13 @@ Github Digital-Signal-Processing-in-Geophysics Update
 How to get the latest version of Digital-Signal-Processing-in-Geophysics from the Github repository
 ---------------------------------------------------------------------------------------------------
 
-Clone the ...
+Clone ...
 
-... the master branch
+... the main branch
 
 git clone git@github.com:daniel-koehn/Digital-Signal-Processing-in-Geophysics.git
 
-... only the latest master branch update 
+... only the latest main branch update 
 
 git clone --depth=1 git@github.com:daniel-koehn/Digital-Signal-Processing-in-Geophysics.git
 
@@ -28,5 +28,5 @@ Update of Github Digital-Signal-Processing-in-Geophysics repository
 For a specific branch ...
 4. git push origin branch_name
 
-For master branch ...
-4. git push origin master
+For main branch ...
+4. git push origin main
